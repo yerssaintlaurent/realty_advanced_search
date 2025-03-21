@@ -1,9 +1,8 @@
-streamlit
-transformers
-torch
-pandas
-numpy
-rapidfuzz
-base64
+streamlit==1.23.1
+transformers==4.37.0
+torch==2.1.0
+pandas==2.1.1
+numpy==1.26.2
+rapidfuzz==3.12.2
 pillow
 requests
