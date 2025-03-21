@@ -4,4 +4,5 @@ torch
 pandas==2.1.1
 numpy==1.26.2
 rapidfuzz==3.12.2
+pillow==9.4.0
 requests
