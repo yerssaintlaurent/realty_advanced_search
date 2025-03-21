@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+pandas
+numpy
+rapidfuzz
+base64
+pillow
+requests
