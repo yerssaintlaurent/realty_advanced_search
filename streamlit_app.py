@@ -1185,6 +1185,7 @@ def fuzzy_match_ru(query, choices, threshold=60, category=None):
         return norm_choices[result[0]]
     return None
 
+port = int(os.environ.get("PORT", 8501))  # Используем порт, который даёт Render
+
 if __name__ == "__main__":
-    init_state()
-    main()
+    st.run(port=port, host="0.0.0.0")
