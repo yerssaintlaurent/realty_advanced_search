@@ -19,8 +19,7 @@
 
 ## Пример использования:
 
-<img src="(https://s6.gifyu.com/images/bMMWA.gif)" alt="Демонстрация" width="600">
-
+<img src="https://s6.gifyu.com/images/bMMWA.gif" alt="Демонстрация" width="600">
 
 ## Архитектура
 
