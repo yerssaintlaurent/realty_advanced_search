@@ -19,7 +19,8 @@
 
 ## Пример использования:
 
-demo.gif
+![Демонстрация](https://s6.gifyu.com/images/bMMWA.gif)
+
 
 ## Архитектура
 
