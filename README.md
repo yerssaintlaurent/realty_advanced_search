@@ -28,9 +28,12 @@
 - **BERT:** Обрабатывает входной запрос, разбивая его на категории.  
 - **CLIP:** Принимает определённые категории от BERT (например, `realty_type` и `interior_describing`) и осуществляет поиск фотообъявлений, соответствующих данным параметрам.
 
-**Ссылки на модели и метрики на Hugginface:**
-**EN**: ersace/bert_realestate_english
-**RU**: ersace/bert_realestate_ru
+**Ссылки на модели и их метрики на Hugginface:**
+
+**EN**: [ersace/bert_realestate_english](https://huggingface.co/ersace/bert_realestate_english)
+
+**RU**: [ersace/bert_realestate_ru](https://huggingface.co/ersace/bert_realestate_rus)
+
 
 ## Планы развития
 
