@@ -6,15 +6,11 @@ from pathlib import Path
 import numpy as np
 import base64
 from transformers import pipeline, T5ForConditionalGeneration, T5TokenizerFast
-import torch
 import json
 import re
 from rapidfuzz import process, fuzz
 from transformers import CLIPProcessor, CLIPModel
 import torch
-
-from transformers import pipeline, AutoModelForTokenClassification, AutoTokenizer
-import re
 
 PHOTO_BASE_DIR = Path("photo")
 DEFAULT_IMAGE = Image.new("RGB", (800, 600), color="#f0f0f0")
